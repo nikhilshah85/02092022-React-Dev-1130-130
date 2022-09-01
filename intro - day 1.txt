@@ -1,0 +1,33 @@
+
+
+
+React Eco system
+	1. Components
+	2. Data in components
+		data categories
+			a. Primitive data type
+			b. Primitive data array
+			c. JSON objects
+			d. JSON object array
+		States and Props
+	3. Component develop types
+		a. Class based component development (for OOPS guys)
+		b. function based component development (Javscript experts)
+
+	4. Make API calls - to make applications more dynamic
+
+	5. SPA app - routing app
+	6. Hooks in function based app (this is new in current react version)
+
+---------------------------------------------------------
+	Pre-requisite
+a. Software setup (you can also make use of cloud lab)
+	Nodejs
+	VS Code
+b. fundamental programmins/scripting exposure
+	OOPS
+	HTML, CSS and JS
+
+-------------------------------------------------------
+Expectations
+Be interactive
