@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Monday :
+				a. Lab Setup 
+					NodeJS
+					VS Code
+					React
+				b. create first react application, build it and test it
+				c. Understand project structure
+				d. Create your first component
