@@ -1,0 +1,12 @@
+create a new component for the same application
+	Product
+		pId, pName, pCategory, pPrice, pDiscount = 5, pTax = 7.5 , pIsInStock - this are the properties
+
+		display the below
+		Product Id
+		Product Name
+		Product Price
+		Discount  - discount value for price 
+		Tax : Tax amount
+		Sale Price : ProductPrice - discount + tax amount
+		Product Status : (Available or not in stock)

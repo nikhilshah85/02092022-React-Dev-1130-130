@@ -1,0 +1,29 @@
+Data categories in React componnet
+	a. Primitive data type, int, string double bool etc.
+		empNo = 101;
+		empName = "Nikhil";
+
+	b. Primitive data array []	
+		empSkills = ['React','Angular','Azure','MSBI']
+	c. JSON object {}
+		empClient = {
+			clientId:101,
+			clientName:'CitiBank',
+			clientLoaction:'Australia',
+			clientRevenue : 2B$,
+			clientIsActive:true
+
+		}
+	d. JSON Object array [
+empClients = [
+		{clientId:101,clientName:'CitiBank',clientLoaction:'Australia',	clientRevenue : 2B$,clientIsActive:true },
+		{clientId:102,clientName:'CitiBank',clientLoaction:'Australia',	clientRevenue : 2B$,clientIsActive:true },
+		{clientId:103,clientName:'CitiBank',clientLoaction:'Australia',	clientRevenue : 2B$,clientIsActive:true },
+		{clientId:104,clientName:'CitiBank',clientLoaction:'Australia',	clientRevenue : 2B$,clientIsActive:true },
+		{clientId:105,clientName:'CitiBank',clientLoaction:'Australia',	clientRevenue : 2B$,clientIsActive:true },
+		{clientId:106,clientName:'CitiBank',clientLoaction:'Australia',	clientRevenue : 2B$,clientIsActive:true },
+		{clientId:107,clientName:'CitiBank',clientLoaction:'Australia',	clientRevenue : 2B$,clientIsActive:true },
+		]
+
+
+-----------------Data will come from webapi calls - we do not hard code any data 

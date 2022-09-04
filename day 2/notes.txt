@@ -1,0 +1,26 @@
+React 
+	-- React is JS library for client centric development
+	-- This is a library by Facebook, Instagram 
+	-- This is mainly used for UI development
+	-- This can be integrated with server side tech as well - Java, ASP.Net etc
+	-- Can be combined with server side as well
+
+	-- React is all about component development
+		(HTML + CSS + ES[JS])
+
+	-- React used EcmaScript 6+ which is a an Object orient Javascript
+	-- React development needs NodeJS in the backend
+----------------------------------------------------------------
+
+As a development you need to be very good at below concepts
+1. Components
+	Class based component
+	Function based component
+2. Routing services / SPA application
+
+3. makeing an HTTP calls
+
+4. React Hooks (this is for function based component)
+
+besides this, for development 
+	states, props, ref, map function, etc... 
