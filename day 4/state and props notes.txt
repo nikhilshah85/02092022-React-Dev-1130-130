@@ -1,0 +1,17 @@
+1. What is react and kind of applications created react
+2. All about component development and is a UI library
+3. Components -> data
+
+---------------------------------------------
+	Component communication
+		a. You can pass the data from 1 component to another component
+		b. You can pass the functions from 1 component to another component
+			Note: React component communicaiton is 1 WAY - from parenet to child only
+		C. Since our application can have multi level components, it is prefered to declare a container at the top of 						hirearch which will hold data and function which will flow from top towards bottom
+
+		d. This container is called state container
+		e. child will recieve the data and function in form of a props
+		f. any change in state will reflect props where ever it is used
+		g. You cannot make changes to Props, changes has to come from state
+		h. we use setState method to make changes to state
+		e. in the top parent component add a constructor and call super constructor in the same
