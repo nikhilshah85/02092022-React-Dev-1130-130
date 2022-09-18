@@ -1,0 +1,33 @@
+React
+	Components
+		Parent and child, also the nested components
+		data categories and map function
+		state and props to work with data
+		api calls using fetch api 
+		Routing - SPA apps
+
+	----------------------------------- This is all you need to develop a Applicatio in React
+
+	Components 
+		Class based (for developers coming from C#, java, c++ etc -- OOPS programmers)
+
+		Function based (for hard core JS developers)
+			React / Facebook made it more easier to work with 
+			
+			understand - hooks 
+					state and props are manageed using hooks
+					data passing is managed usigg hooks
+					hook are the fundamentals of jumping / learning Redux
+				
+					useState - for statement - super super fantastic - huge performance benifit
+					useEffect - used on a general basis for UI management
+					useContext - for data management benifit (huge performance advantage)
+						to be used in a big hirearch of components (parent and child)
+					useMemo - memory management
+					CustomHook
+
+
+	
+					
+		
+		
