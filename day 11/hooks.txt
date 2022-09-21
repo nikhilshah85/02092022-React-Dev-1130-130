@@ -1,0 +1,13 @@
+
+React Development
+	Class based Component
+	Function based component
+		Hooks
+			useState - const [myName,changeMyName] = useState('Nikhil');
+				we also saw the spread operator to upadte state
+			useEffect - this is like a background service for a page - services
+				use it for background services like, logging, update data, make rest calls, refresh data
+			useContext
+
+			customHooks
+			
